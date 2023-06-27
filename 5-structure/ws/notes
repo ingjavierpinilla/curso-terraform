@@ -1,0 +1,10 @@
+1. reduce duplicacion de codigo
+-1. error humano.
+-2. Estado guardado en el mismo backend.
+-3. El codigo no muestra el estado de la infraestructura.
+
+
+
+######
+tf workspace list 
+tf workspace new prod

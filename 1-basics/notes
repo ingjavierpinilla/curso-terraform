@@ -1,0 +1,5 @@
+1. Descarga terraform https://developer.hashicorp.com/terraform/downloads?product_intent=terraform
+2. Creacion usuario aws
+3. Set alias
+4. Providers
+5. Comandos init, fmt, plan, apply, destroy

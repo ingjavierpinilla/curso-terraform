@@ -1,0 +1,6 @@
+1. Separacion de backend.
+    1.1 Seguridad.
+    1.2 Error humano reducido.
+2. El codigo representa el estado de la infraestructura.
+-1. se requieres multiples pasos para provisionar la infraestructura.
+-2. Repeticion de codigo.
